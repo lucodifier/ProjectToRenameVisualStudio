@@ -1,0 +1,1 @@
+Projeto para teste para renomear Projetos e Soluções do Visual Studio
